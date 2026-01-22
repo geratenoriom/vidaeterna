@@ -120,14 +120,13 @@ nav a:hover {
     display: flex;
     justify-content: center;
     align-items: center;
-    gap: 30px;
+    gap: 20px;
 }
 
 .card2 img {  
     border-radius: 0px;
     width: 150px;
     height: 150px;
-    
 }
 
 
